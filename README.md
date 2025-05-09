@@ -12,7 +12,7 @@ A beginner-friendly decentralized notes app that allows users to connect their S
 - View your uploaded notes through IPFS links
 
 <pre><code>## 🧱 Project Structure 
-``` solana-notes-app/ 
+ solana-notes-app/ 
 ├── public/ 
   ├── src/ │ 
     ├── components/ │ │
@@ -24,7 +24,7 @@ A beginner-friendly decentralized notes app that allows users to connect their S
   │ └── main.tsx 
 ├── .env 
 ├── package.json 
-└── README.md ``` 
+└── README.md 
 </code></pre>
 
 ## 🚀 Getting Started
